@@ -2,6 +2,6 @@
 
 def call(String message = 'Initial Commit') {
   echo "Message, ${message}."
-  git --version
-  git branch -l
+  //git --version
+  //git branch -l
 }
